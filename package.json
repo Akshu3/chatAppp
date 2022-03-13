@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Akshu3/chatAppp.git/issues"
   },
-  "homepage": "https://github.com/Akshu3/chatAppp.git#readme",
+  "homepage": "https://github.com/Akshu3/chatAppp#readme",
   "dependencies": {
     "connect-mongo": "^4.6.0",
     "cookie-parser": "^1.4.6",
